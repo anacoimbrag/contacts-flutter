@@ -30,3 +30,14 @@ to see all available devices you should run:
 ```bash
 flutter devices
 ```
+
+## 📱 Screenshots
+
+**Android:**
+
+![](/screenshots/Flutter%20Android%201.png)![](/screenshots/Flutter%20Android%202.png)
+
+**iOS:**
+
+![](/screenshots/Flutter%20iOS%201.png)![](/screenshots/Flutter%20iOS%201.png)
+```
