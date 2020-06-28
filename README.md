@@ -39,5 +39,5 @@ flutter devices
 
 **iOS:**
 
-![](/screenshots/Flutter%20iOS%201.png)![](/screenshots/Flutter%20iOS%201.png)
+![](/screenshots/Flutter%20iOS%201.png)![](/screenshots/Flutter%20iOS%202.png)
 ```
